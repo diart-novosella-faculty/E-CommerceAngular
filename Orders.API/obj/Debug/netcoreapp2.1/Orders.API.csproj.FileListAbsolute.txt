@@ -1,0 +1,28 @@
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.deps.json
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.json
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.dev.json
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.dll
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.csprojAssemblyReference.cache
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.csproj.CoreCompileInputs.cache
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cache
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cs
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfoInputs.cache
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfo.cs
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorTargetAssemblyInfo.cache
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.dll
+C:\Users\Diellor\Desktop\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.pdb
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.deps.json
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.json
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.dev.json
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.dll
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\bin\Debug\netcoreapp2.1\Orders.API.pdb
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.csprojAssemblyReference.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.csproj.CoreCompileInputs.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cs
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfoInputs.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfo.cs
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorTargetAssemblyInfo.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.dll
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\Orders.API\obj\Debug\netcoreapp2.1\Orders.API.pdb

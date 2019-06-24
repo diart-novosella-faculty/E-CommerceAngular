@@ -1,0 +1,176 @@
+<h1>Shopping Cart</h1>
+<!--
+
+
+<div class="row col-10">
+  <p>
+    You have {{ cartItems2.length }} items in your shopping cart. 
+  </p>
+  <table class="table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Product</th>
+        <th class="text-center" style="width: 230px">Quantity</th>
+        
+        <th class="text-right" style="width: 200px">Price</th>
+
+        <th class="text-right" style="width: 200px">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of productsInCart">
+        <td>
+          <div  class="thumbnail">
+          <img width="85" height="85" src="{{product.mainPhotoUrl}}" />
+          </div>
+        </td>
+        <td>
+          {{ product.productName }}
+        </td>
+        <td>
+           
+          {{product.Quantity}}
+          <div class="form-inline">
+            
+            </div>
+        </td>
+        <td class="text-right">
+          {{ product.unitPrice | currency:'USD':true }}
+        </td>
+
+        <td class="text-right">
+          {{ product.unitPrice * product.Quantity | currency:'USD':true }}
+        </td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <th> Total: {{totalPrice | currency:'USD':true }}</th>
+        <th> </th>
+        <th></th>
+        
+      </tr>
+    </tfoot> 
+  </table>
+  <button 
+  
+    class="btn btn-danger btn-sm" (click)="clearShoppingCart()">Clear Shopping Cart</button>
+</div>
+-->
+
+<mdb-card>
+  <mdb-card-body>
+    <!-- Shopping Cart table -->
+    <div class="table-responsive">
+      <table class="table product-table">
+        <!-- Table head -->
+        <thead class="mdb-color lighten-5">
+          <tr>
+            <th></th>
+            <th class="font-weight-bold">
+              <strong>Product</strong>
+            </th>
+            <th></th>
+            <th class="font-weight-bold">
+              <strong>Price</strong>
+            </th>
+            <th class="font-weight-bold">
+              <strong>Quantity</strong>
+            </th>
+            <th class="font-weight-bold">
+              <strong>Total</strong>
+            </th>
+            <th></th>
+          </tr>
+        </thead>
+        <!-- /.Table head -->
+
+        <!-- Table body -->
+        <tbody>
+          <!-- First row -->
+          <tr *ngFor="let product of productsInCart">
+            <th scope="row">
+              <img
+                src="{{product.mainPhotoUrl}}"
+                alt=""
+                class="img-fluid z-depth-0"
+                width="85"
+                height="85"
+              />
+            </th>
+            <td>
+              <h5 class="mt-3">
+                <strong>{{product.productName}}</strong>
+              </h5>
+              <p class="text-muted">{{product.details}}</p>
+            </td>
+            <td></td>
+            <td>{{product.unitPrice | currency:'USD':true }}</td>
+            <td >
+              <!--
+              <button type="button" (click)="onAddQuantity(product)" class="btn btn-light btn-sm" >+</button>
+              <input
+              type="text" class="form-control"
+              [ngModel] ="product.Quantity" (ngModelChange) ="product.Quantity=$event"  class="form-control form-inline" id="count"
+                style="width: 100px"
+
+              />
+              <button type="button" (click)="onRemoveQuantity(product)" class="btn btn-light btn-sm" >-</button>
+              -->
+              <div class="def-number-input number-input safari_only">
+                  <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()" (click)="onRemoveQuantity(product)" class="minus"></button>
+                  <input class="quantity" min="0" name="quantity" value="{{product.Quantity}}" type="number">
+                  <button onclick="this.parentNode.querySelector('input[type=number]').stepUp()" (click)="onAddQuantity(product)"  class="plus"></button>
+                </div>
+            </td>
+            <td class="font-weight-bold">
+              <strong>{{product.unitPrice * product.Quantity | currency:'USD':true }}</strong>
+            </td>
+            <td>
+              <button
+                type="button"
+            
+                (click)="deleteCartItem(product)"
+                class="btn btn-sm btn-danger"
+                data-toggle="tooltip"
+                data-placement="top"
+                title="Remove item"
+              >
+                X
+              </button>
+            </td>
+          </tr>
+          
+          <td colspan="3">
+              <button class="btn btn-danger btn-rounded" (click)="clearShoppingCart()">Clear Shopping Cart</button>
+          </td>
+          
+            <td>
+              
+              <h4 class="mt-2">
+                <strong>Total</strong>
+              </h4>
+            </td>
+            <td class="text-right">
+              <h4 class="mt-2">
+                <strong>{{totalPrice | currency:'USD':true  }}</strong>
+              </h4>
+            </td>
+            <td colspan="3" class="text-right">
+              <button type="button" (click)="checkoutForm()" class="btn btn-primary btn-rounded">Complete purchase
+                <i class="fas fa-angle-right right"></i>
+              </button>
+            </td>
+       
+          
+         
+          <!-- /.First row -->       
+        </tbody>
+        <!-- /.Table body -->
+      </table>
+    </div>
+    <!-- /.Shopping Cart table -->
+   
+  </mdb-card-body>
+</mdb-card>

@@ -1,0 +1,42 @@
+
+<div class="card card-cascade card-ecommerce">
+
+
+  <div class="view view-cascade overlay">
+    <img class="card-img-top" src="{{mainPhotoUrl}}" />
+    <a>
+      <div class="mask rgba-white-slight"></div>
+    </a>
+  </div>
+
+  <div class="card-body card-body-cascade text-center">
+    <h4 class="card-title"><strong><a href="">{{product.productName}}</a></strong></h4>
+
+   
+    <p class="card-text">
+      {{product.details}}
+    </p>
+
+    <div class="mat-card-content">
+
+      <span>{{product.unitPrice}}$</span>
+     
+      <div>
+          <button class="btn btn-secondary" [routerLink]="['/products/',product.productId]">
+            View Details
+          </button>
+          <button
+          (click)="addToCart(product)"
+          class="btn btn-primary"> 
+            Add to cart
+          </button>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+

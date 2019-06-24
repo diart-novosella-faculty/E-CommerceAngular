@@ -1,0 +1,28 @@
+C:\Users\Diellor\Desktop\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.csprojAssemblyReference.cache
+C:\Users\Diellor\Desktop\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.csproj.CoreCompileInputs.cache
+C:\Users\Diellor\Desktop\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.RazorAssemblyInfo.cache
+C:\Users\Diellor\Desktop\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.RazorAssemblyInfo.cs
+C:\Users\Diellor\Desktop\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.AssemblyInfoInputs.cache
+C:\Users\Diellor\Desktop\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.AssemblyInfo.cs
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\bin\Debug\netcoreapp2.1\ShoppingCart.API.deps.json
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\bin\Debug\netcoreapp2.1\ShoppingCart.API.runtimeconfig.json
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\bin\Debug\netcoreapp2.1\ShoppingCart.API.runtimeconfig.dev.json
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\bin\Debug\netcoreapp2.1\ShoppingCart.API.dll
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\bin\Debug\netcoreapp2.1\ShoppingCart.API.pdb
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\obj\Debug\netcoreapp2.1\ShoppingCart.API.RazorTargetAssemblyInfo.cache
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\obj\Debug\netcoreapp2.1\ShoppingCart.API.dll
+C:\Users\Diellor\Desktop\E-Commerce\shoppingcart.api\obj\Debug\netcoreapp2.1\ShoppingCart.API.pdb
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\bin\Debug\netcoreapp2.1\ShoppingCart.API.deps.json
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\bin\Debug\netcoreapp2.1\ShoppingCart.API.runtimeconfig.json
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\bin\Debug\netcoreapp2.1\ShoppingCart.API.runtimeconfig.dev.json
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\bin\Debug\netcoreapp2.1\ShoppingCart.API.dll
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\bin\Debug\netcoreapp2.1\ShoppingCart.API.pdb
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.csprojAssemblyReference.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.csproj.CoreCompileInputs.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.RazorAssemblyInfo.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.RazorAssemblyInfo.cs
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.AssemblyInfoInputs.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.AssemblyInfo.cs
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.RazorTargetAssemblyInfo.cache
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.dll
+D:\UBT\Semestri VI\Lab Course 2\Testimi Softuerik\E-Commerce\ShoppingCart.API\obj\Debug\netcoreapp2.1\ShoppingCart.API.pdb
